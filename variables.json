@@ -1,0 +1,1 @@
+{"startSamplePoint": "0", "endSamplePoint": "18000", "peaksCounts": "7", "peakLength": "500", "gasOutTime": "700", "gasInTime": "700", "windowSize": "50", "showPeakValue": 1, "showGasIn": 1, "showGasOut": 1, "showResponse": 1, "showResponseTime": 1, "showRecoveryTime": 1, "sampleRate": "12", "mode": "SamplesMode"}
