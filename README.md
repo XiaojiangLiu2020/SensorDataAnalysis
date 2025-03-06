@@ -1,2 +1,3 @@
 # SensorDataAnalysis
 输入excel格式数据，分析气体传感器相关指标
+主文件是gasSensor.py（具体说明可以打开这个代码看里面注释），其他的一些excel文件是用于检验的
